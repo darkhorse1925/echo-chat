@@ -155,10 +155,11 @@ small {
 	background: var(--accent-1);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
 
 	body {
 		padding: 0;
+		height : 90vh;
 	}
 	.container {
 		box-sizing:border-box;
